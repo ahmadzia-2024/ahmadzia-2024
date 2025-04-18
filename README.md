@@ -28,9 +28,4 @@
  
   
  </p>
-<hr />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaibqanooni&show_icons=true&locale=en&layout=compact" alt="suhaibqanooni" style="background: none"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhaibqanooni&show_icons=true&locale=en" alt="suhaibqanooni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibqanooni&" alt="suhaibqanooni" /></p>
